@@ -1,0 +1,8 @@
+id,date,type,category,amount,description
+96cd509a-0240-45db-af6e-fa40b4dd8c89,2026-10-21,Expense,Transport,120.0,bus ticket
+60e4341d-b178-4c97-b80a-87ef7180f8e2,2026-10-21,Income,Food,100.0,lunch
+12ec04be-6294-4a21-ac74-8d6a688e720a,2026-10-21,Income,Freelance,1000.0,pocket money
+0df74d48-1976-416c-afc0-b82f2e54f2b1,2026-10-21,Expense,Transport,70.0,travel
+ca06da8d-d51e-4adb-bf55-f0ec06b4b72a,2026-10-21,Expense,Education,400.0,books
+4b2c63ac-7a1b-4919-baad-05c129b427d4,2026-10-22,Expense,Entertainment,250.0,movie
+43e9594e-31aa-4583-bce7-4b45c555d78e,2026-10-23,Expense,Health,100.0,medicines
